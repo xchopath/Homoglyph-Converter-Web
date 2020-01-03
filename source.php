@@ -8,9 +8,9 @@
 			<center>
 				<br>
 				<h2 style="font-family: Courier;margin: 0;font-weight: normal;">Homoglyph Converter</h2><br>
-		    	<textarea name="inputz" style="width: 600px;height: 130px;" placeholder="here ur text..."></textarea><br><br>
-		    	<input type="submit" value="convert"/>
-		    </center>
+		    		<textarea name="inputz" style="width: 600px;height: 130px;" placeholder="here ur text..."></textarea><br><br>
+		    		<input type="submit" value="convert"/>
+		    	</center>
 		</form>
 
 		<?php
