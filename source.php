@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Homoglyph Converter by @panophan</title>
+		<title>Homoglyph Converter by @xchopath</title>
 	</head>
 	<body>
 		<form method="post">
